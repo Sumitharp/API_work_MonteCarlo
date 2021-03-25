@@ -16,7 +16,7 @@ I have used the Monte Carlo data to calculate the expected portfolio returns giv
 
 The chart shows portfolio composition
 
-![Crypto and Shares Portfolio value pie chart](crypto_share_breakup.png)
+![Crypto and Shares Portfolio value pie chart](Images/crypto_share_breakup.png)
 
 # Retirement Planning using Monte Carlo Simulation
 
