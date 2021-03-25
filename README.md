@@ -56,7 +56,7 @@ There is a 95% chance that an initial investment of `$60000` in the portfolio `(
 ### Monte Carlo simulation to forecast `10 years` cumulative returns
 
 
-![Monte Carlo Simulation](Images/Plot_3.png)
+![Monte Carlo Simulation](Images/plot_3.png)
 
 ![Probability Distribution of final cummulative returns](Images/plot_3_dist.png)
 
