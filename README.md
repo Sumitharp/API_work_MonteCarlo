@@ -25,9 +25,9 @@ The chart shows portfolio composition
 * Monte Carlo simulation is used to forecast 30 years cumulative returns
 * Weights of `60%` for stocks (`SPY`) and `40%` for bonds (`AGG`) is considered for composition of the portfolio
 
-![Monte Carlo Simulation](Images\plot_1.png)
+![Monte Carlo Simulation](Images/plot_1.png)
 
-![Probability Distribution of final cummulative returns](Images\plot_1_dist.png)
+![Probability Distribution of final cummulative returns](Images/plot_1_dist.png)
 
 ### Based on this simulation
 
@@ -44,9 +44,9 @@ There is a 95% chance that an initial investment of `$30000.0` in the `40%` debt
 ### Monte Carlo simulation to forecast `5 years` cumulative returns
 
 
-![Monte Carlo Simulation](Images\Plot_2.png)
+![Monte Carlo Simulation](Images/Plot_2.png)
 
-![Probability Distribution of final cummulative returns](Images\plot_2_dist.png)
+![Probability Distribution of final cummulative returns](Images/plot_2_dist.png)
 
 #### Based on this simulation
 
@@ -56,9 +56,9 @@ There is a 95% chance that an initial investment of `$60000` in the portfolio `(
 ### Monte Carlo simulation to forecast `10 years` cumulative returns
 
 
-![Monte Carlo Simulation](Images\Plot_3.png)
+![Monte Carlo Simulation](Images/Plot_3.png)
 
-![Probability Distribution of final cummulative returns](Images\plot_3_dist.png)
+![Probability Distribution of final cummulative returns](Images/plot_3_dist.png)
 
 #### Based on this simulation
 
